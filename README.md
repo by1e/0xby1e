@@ -5,4 +5,4 @@
 
 [By1e] https://github.com/by1e
 
-Study, Practice, Research, Experiment.
+Study, Practice, Research, Experiment, Projects.
